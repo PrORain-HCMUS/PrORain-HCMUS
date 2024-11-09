@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/hoàng-vũ-lê-66572630b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoàng vũ lê" height="30" width="40" /></a>
-<a href="https://kaggle.com/hoangvu_128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hoangvu_128" height="30" width="40" /></a>
-<a href="https://fb.com/lê hoàng vũ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lê hoàng vũ" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hoàng-vũ-lê-66572630b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoàng vũ lê" height="30" width="40" /></a>
+<a href="https://kaggle.com/hoangvu128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hoangvu_128" height="30" width="40" /></a>
+<a href="https://facebook.com/profile.php?id=100011115345788 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lê hoàng vũ" height="30" width="40" /></a>
 <a href="https://instagram.com/qinalem_128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qinalem_128" height="30" width="40" /></a>
 </p>
 
