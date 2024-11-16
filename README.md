@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NLP, LLM**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence** in Ho Chi Minh city's University of Science (**HCMUS**)
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrORain-HCMUS](https://github.com/PrORain-HCMUS)
 
