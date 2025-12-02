@@ -99,6 +99,15 @@ print("Let's build something intelligent together! 🤖")
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+
+```python
+From: 01 December 2025 - To: 02 December 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
