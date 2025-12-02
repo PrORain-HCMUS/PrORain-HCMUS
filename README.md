@@ -39,57 +39,15 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00.svg?&style=flat&logo=gradio&logoColor=white)
 
 
-<details>
-<summary>
-  <b>👨‍💻 More About Me...</b>
-</summary>
 
-<br>
+**🏵️ What I'm working on** ...
 
-```python
-class HoangVuLe:
-    def __init__(self):
-        self.education = "HCMUS - Artificial Intelligence"
-        self.code = ["Python", "C++", "Java", "TypeScript", "JavaScript"]
-        self.focus = {
-            "main": [
-                "Natural Language Processing (NLP)",
-                "Large Language Models (LLM)"
-            ],
-            "learning": [
-                "Generative AI",
-                "Deep Learning Architectures",
-                "AI Agents & Multi-Agent Systems"
-            ]
-        }
-        self.tools = {
-            "ai_frameworks": ["PyTorch", "TensorFlow", "HuggingFace"],
-            "llm_tools": ["LangChain", "LangGraph"],
-            "databases": ["MongoDB", "Weaviate", "ChromaDB"],
-            "devops": ["Docker", "Git", "Linux"],
-            "cloud": ["Google Cloud Platform", "Azure", "AWS"]
-        }
-        self.interests = [
-            "Building AI-powered applications",
-            "Exploring cutting-edge AI research",
-            "Open source contributions"
-        ]
-    
-    def current_status(self):
-        return "🚀 Always learning and building with AI!"
-    
-    def contact(self):
-        return {
-            "email": "llehoangvum10@gmail.com",
-            "linkedin": "linkedin.com/in/hoàng-vũ-lê-66572630b/",
-            "github": "github.com/PrORain-HCMUS"
-        }
 
-me = HoangVuLe()
-print("Let's build something intelligent together! 🤖")
-```
+- 🏢 Working at **Bosch Global Software Technologies Vietnam (BGSW Vietnam)**
+- 🎓 Currently in my **final year**, working on my **graduation thesis** to prepare for graduation
+- 📄 Aiming to conduct research and **publish a paper** within the next 1-2 years
 
-</details>
+
 
 🔥 **GitHub Streak:**
 
@@ -184,15 +142,51 @@ TeX                      1 repo              █░░░░░░░░░░�
 <details>
 
 <summary>
-  More Stuff to know me more...
+  Summarization
 </summary>
 
-🏵️ **What I'm working on:**
+```python
+class HoangVuLe:
+    def __init__(self):
+        self.education = "HCMUS - Artificial Intelligence"
+        self.code = ["Python", "C++", "Java", "TypeScript", "JavaScript"]
+        self.focus = {
+            "main": [
+                "Natural Language Processing (NLP)",
+                "Large Language Models (LLM)"
+            ],
+            "learning": [
+                "Generative AI",
+                "Deep Learning Architectures",
+                "AI Agents & Multi-Agent Systems"
+            ]
+        }
+        self.tools = {
+            "ai_frameworks": ["PyTorch", "TensorFlow", "HuggingFace"],
+            "llm_tools": ["LangChain", "LangGraph"],
+            "databases": ["MongoDB", "Weaviate", "ChromaDB"],
+            "devops": ["Docker", "Git", "Linux"],
+            "cloud": ["Google Cloud Platform", "Azure", "AWS"]
+        }
+        self.interests = [
+            "Building AI-powered applications",
+            "Exploring cutting-edge AI research",
+            "Open source contributions"
+        ]
+    
+    def current_status(self):
+        return "🚀 Always learning and building with AI!"
+    
+    def contact(self):
+        return {
+            "email": "llehoangvum10@gmail.com",
+            "linkedin": "linkedin.com/in/hoàng-vũ-lê-66572630b/",
+            "github": "github.com/PrORain-HCMUS"
+        }
 
-- 🏢 Working at **Bosch Global Software Technologies Vietnam (BGSW Vietnam)**
-- 🎓 Currently in my **final year**, working on my **graduation thesis** to prepare for graduation
-- 📄 Aiming to conduct research and **publish a paper** within the next 1-2 years
-
+me = HoangVuLe()
+print("Let's build something intelligent together! 🤖")
+```
 
 </details>
 
