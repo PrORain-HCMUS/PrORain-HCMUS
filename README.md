@@ -51,7 +51,7 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 
 🔥 **GitHub Streak:**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prorain-hcmus&" alt="prorain-hcmus" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=PrORain-HCMUS&theme=dark)](https://git.io/streak-stats)
 
 
 📊 **This Week I Spent My Time On:**
