@@ -57,13 +57,15 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.07%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2028%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.28%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.5 MB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,6 +73,53 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                428 commits         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+🌆 Daytime                432 commits         ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+🌃 Evening                680 commits         █████████░░░░░░░░░░░░░░░░   34.98 % 
+🌙 Night                  404 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   338 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Tuesday                  153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Wednesday                191 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Thursday                 268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Friday                   257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Saturday                 375 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Sunday                   362 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Python                   12 hrs 1 min        █████████████░░░░░░░░░░░░   51.51 % 
+TeX                      4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Markdown                 2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Text                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Git Config               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+
+🔥 Editors: 
+Windsurf                 23 hrs 21 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+pm-assistant-jira        10 hrs 29 mins      ███████████░░░░░░░░░░░░░░   44.92 % 
+ZALO-AI-2025             5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+CONGA                    2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+DL                       2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+VuDA-o2                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+
+💻 Operating System: 
+Windows                  23 hrs 21 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -88,7 +137,7 @@ Cuda                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PrORain-HCMUS/PrORain-HCMUS/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 00:56:24 UTC
+ Last Updated on 05/01/2026 00:55:21 UTC
 <!--END_SECTION:waka-->
 
 
