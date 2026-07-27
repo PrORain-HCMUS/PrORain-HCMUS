@@ -65,7 +65,7 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 341 Contributions in the Year 2026
+> 🏆 342 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,9 +76,9 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                664 commits         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+🌞 Morning                665 commits         ███████░░░░░░░░░░░░░░░░░░   27.59 % 
 🌆 Daytime                466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌃 Evening                786 commits         ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌃 Evening                786 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
 🌙 Night                  493 commits         █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -87,10 +87,10 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 Monday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 Tuesday                  215 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Thursday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Thursday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 Friday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Saturday                 441 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Sunday                   423 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Saturday                 441 commits         █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Sunday                   424 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
 ```
 
 
@@ -100,26 +100,26 @@ Sunday                   423 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TeX                      3 hrs 29 mins       █████████████░░░░░░░░░░░░   51.13 % 
-Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Text                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TeX                      3 hrs 15 mins       ███████████████░░░░░░░░░░   61.40 % 
+Markdown                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Diff                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 56 mins       ██████████████████████░░░   87.11 % 
-Windsurf                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Claude Code              4 hrs 59 mins       ████████████████████████░   94.29 % 
+Windsurf                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🐱‍💻 Projects: 
-SiLoRA                   2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.39 % 
-Thesis                   2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.25 % 
-ACER                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-ACM RecSys CONGA         20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-conga-page               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Thesis                   2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.03 % 
+SiLoRA                   1 hr 29 mins        ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+ACER                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+ACM RecSys CONGA         20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+fig                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 💻 Operating System: 
-Windows                  6 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -139,7 +139,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PrORain-HCMUS/PrORain-HCMUS/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 01:25:00 UTC
+ Last Updated on 27/07/2026 01:30:00 UTC
 <!--END_SECTION:waka-->
 
 
