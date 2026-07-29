@@ -57,17 +57,13 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2040%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%201%20min-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 343 Contributions in the Year 2026
+> 🏆 344 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,21 +74,21 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                666 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-🌆 Daytime                466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-🌃 Evening                786 commits         ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌙 Night                  493 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+🌞 Morning                667 commits         ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+🌆 Daytime                466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+🌃 Evening                786 commits         ████████░░░░░░░░░░░░░░░░░   32.59 % 
+🌙 Night                  493 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Tuesday                  215 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Thursday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Monday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Tuesday                  216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Wednesday                261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Thursday                 323 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 Friday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-Saturday                 441 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Sunday                   424 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Saturday                 441 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Sunday                   424 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
 ```
 
 
@@ -102,49 +98,49 @@ Sunday                   424 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TeX                      1 hr 51 mins        █████████████░░░░░░░░░░░░   50.05 % 
-Markdown                 54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Diff                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+TeX                      1 hr 10 mins        ██████████████░░░░░░░░░░░   55.83 % 
+JavaScript               26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Diff                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 29 mins       ███████████████████████░░   93.99 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Windsurf                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Claude Code              1 hr 54 mins        ███████████████████████░░   90.24 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Windsurf                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🐱‍💻 Projects: 
-Thesis                   2 hrs 10 mins       ███████████████░░░░░░░░░░   58.51 % 
-ACER                     48 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
-ACM RecSys CONGA         20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-fig                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-SiLoRA                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Thesis                   1 hr 41 mins        ████████████████████░░░░░   79.87 % 
+ACER                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+fig                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+SiLoRA                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+conga-page               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 35 mins (96.66%)
+⏱ AI Coding Time: 1 hr 59 mins (94.11%)
 
-✍️ 437 lines written by AI, 104 lines written by hand (80.78% AI-written)
+✍️ 112 lines written by AI, 104 lines written by hand (51.85% AI-written)
 
-🔤 201,877,999 Input Tokens, 299,935 Output Tokens
+🔤 81,195,275 Input Tokens, 178,109 Output Tokens
 
-💵 $612.91 Estimated AI Cost This Week
+💵 $355.72 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 49 AI Prompts
+🧠 6 AI Sessions, 35 AI Prompts
 
-Sonnet                   581 lines           █████████████████████████   100.00 % 
+Sonnet                   158 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.78% of written lines came from AI
-📚 Verbose Prompter — average 1,942 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 23.61% of changed lines were hand-edited
+⚖️ Balanced with AI — 51.85% of written lines came from AI
+📚 Verbose Prompter — average 2,306 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 57.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -164,7 +160,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PrORain-HCMUS/PrORain-HCMUS/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 01:17:01 UTC
+ Last Updated on 29/07/2026 01:19:52 UTC
 <!--END_SECTION:waka-->
 
 
