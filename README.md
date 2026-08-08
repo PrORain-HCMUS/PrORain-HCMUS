@@ -57,13 +57,17 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%201%20min-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.6 MB Used in GitHub's Storage 
  > 
-> 🏆 353 Contributions in the Year 2026
+> 🏆 354 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,6 +75,51 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                677 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
+🌆 Daytime                466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+🌃 Evening                786 commits         ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌙 Night                  493 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Tuesday                  217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Wednesday                263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Thursday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Friday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Saturday                 442 commits         █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Sunday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -88,7 +137,7 @@ Typst                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PrORain-HCMUS/PrORain-HCMUS/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 01:58:24 UTC
+ Last Updated on 08/08/2026 00:41:57 UTC
 <!--END_SECTION:waka-->
 
 
