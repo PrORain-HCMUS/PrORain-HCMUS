@@ -61,13 +61,13 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-28%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34.84%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.7 MB Used in GitHub's Storage 
  > 
-> 🏆 446 Contributions in the Year 2026
+> 🏆 447 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,21 +78,21 @@ I'm Hoang Vu Le, an Artificial Intelligence Student🚀 at Ho Chi Minh City Univ
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                702 commits         ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌆 Daytime                477 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-🌃 Evening                805 commits         ████████░░░░░░░░░░░░░░░░░   30.49 % 
-🌙 Night                  656 commits         ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+🌞 Morning                704 commits         ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌆 Daytime                482 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+🌃 Evening                806 commits         ████████░░░░░░░░░░░░░░░░░   30.35 % 
+🌙 Night                  664 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   442 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Tuesday                  317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Wednesday                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Thursday                 362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Friday                   362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Saturday                 446 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Sunday                   431 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Monday                   442 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Tuesday                  321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Wednesday                283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Thursday                 365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Friday                   364 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Saturday                 446 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Sunday                   435 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 ```
 
 
@@ -137,7 +137,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PrORain-HCMUS/PrORain-HCMUS/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 01:57:47 UTC
+ Last Updated on 31/08/2026 01:52:06 UTC
 <!--END_SECTION:waka-->
 
 
